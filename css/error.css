@@ -1,0 +1,182 @@
+
+BODY	
+{
+	Background-Attachment : fixed ;
+	Background-Position : Center 30 ;
+	Background-Repeat : No-Repeat ;
+	Font-Family : 12px Tahoma, Courier, mono ;
+	margin-top: 80px;
+
+
+
+
+	font-family: Tahoma, Courier, mono;
+	font-size: 12px;
+	background-color: white;
+	text-align : center;
+}
+
+.boton 
+{
+	cursor: hand;
+}
+
+H2 
+{
+	font-family: Tahoma, Courier, mono;
+	font-size: 18px;
+    font-weight: bold;
+    text-align : center;
+}
+
+H3 
+{
+	font-family: Tahoma, Courier, mono;
+	font-size: 14px;
+    font-weight: bold;
+    text-align : center;        
+}
+
+A
+{
+	font-family:  Tahoma, Courier, mono;
+	font-size: 14px;
+	text-align : center;
+}
+
+A:link {
+	COLOR: black
+	TEXT-DECORATION: none
+	font-size: 18px;
+	text-align : center;
+}
+A:visited {
+	COLOR: black
+	TEXT-DECORATION: none
+}
+A:active {
+    COLOR: black
+	TEXT-DECORATION: none
+}
+A:link {
+	
+	COLOR: black
+}
+A:visited {
+	COLOR: black
+}
+A:hover {
+	COLOR: #d74100; TEXT-DECORATION: underline
+}
+
+P 
+{
+	font-family: Tahoma, Courier, mono;
+	font-size: 12px;
+	text-align : center;
+}
+
+TH 
+{
+	font-family: Tahoma, Courier, mono;
+	font-size: 12px;
+	text-align : center;
+}
+
+TD 
+{
+	font-family: Tahoma, Courier, mono;
+	font-size: 14px;
+	text-align : center;
+}
+
+
+.smallText 
+{
+	font-size: 12px;
+	text-align : center;
+}
+
+
+.message{
+	background-color : #3300CC;
+	color : White;
+	font-family : Tahoma, Courier, mono;
+	font-size : 18px;
+	font-weight : bold;
+	text-align : center;
+	cursor : wait;
+}
+
+.formCaption
+{
+	background-color: #003399;
+}
+
+.formCaption1
+{
+	background-color: #DC143C;
+}
+
+.formCaptionText
+{
+	color: white;
+}
+
+.formLabel
+{
+  font-size: 12px;
+  padding-left: 5px;
+  text-align : center;
+}
+
+.inputControl
+{
+  font-family: Tahoma;
+  font-size: 12px;
+  text-align : center;
+}
+
+.formElement
+{
+	background-color:#e6e6e6;
+}
+
+.tableHeader
+{
+	color: white;
+	background-color: #003399;
+	
+	
+}
+
+.tableCell
+{
+	background-color: #e6e6e6;
+}
+
+.tableCell_1
+{
+	background-color: transparent;
+}
+
+.tableCell_2
+{
+	background-color: transparent;
+}
+
+
+.headerBox
+{
+	background-color: #DC143C;
+	padding-left: 4px;
+}
+
+.headerText
+{
+   	font-family: Verdana;
+  	font-size: 18px;
+  	font-weight : bold;
+    color: white;
+    text-align : center;
+}
